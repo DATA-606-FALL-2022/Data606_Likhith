@@ -64,7 +64,7 @@ Classfication Problem Using Machine Learning(Predict next-day rain by training c
 <li>Temp9am: Temperature (degrees C) at 9am</li>
 <li>Temp3pm: Temperature (degrees C) at 3pm</li>
 
-# Target Variable
+## Target Variable
 Chance of Rainfall Tomorrow is my target variable.
 The question I would like to answer is "Did it rain tomorrow?" (1 = yes, 0 = no )
 
