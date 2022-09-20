@@ -37,7 +37,7 @@ Classfication Problem Using Machine Learning(Predict next-day rain by training c
 
 * This dataset contains about 10 years of daily weather observations from many locations across Australia.
 
-<h4><b><u>Categorical Features</h4></b></u>
+### Categorical Features
 <ol type="1">
 <li>Date: The date of observation</li>
 <li>Location: The common name of the location of the weather station</li>
@@ -45,8 +45,8 @@ Classfication Problem Using Machine Learning(Predict next-day rain by training c
 <li>WindDir3pm: Direction of the wind at 3pm</li>
 <li>WindDir9am: Direction of the wind at 9am</li>
 <li>WindGustDir: The direction of the strongest wind gust in the 24 hours to midnight</li>
-Numerical Features
 
+### Numerical Features
 <li>MinTemp: The minimum temperature in degrees celsius</li>
 <li>MaxTemp: The maximum temperature in degrees celsius</li>
 <li>Rainfall: The amount of rainfall recorded for the day in mm</li>
@@ -68,10 +68,8 @@ Numerical Features
 Chance of Rainfall Tomorrow is my target variable.
 The question I would like to answer is "Did it rain tomorrow?" (1 = yes, 0 = no )
 
-</ol>
-<img src='https://www.kaggleusercontent.com/kf/13811525/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..LARjoeuYKV1CSSYjZm4Dvg.5l_VzPWYTajeta8i0VxkcdsbJj4N5ekXiCL0uYiI6wcKuoWkccjYNEa7ePE8tLOKoRm0TaqoydX3a4wd0_erAVJoIThPh5XJKUMhBBNsGJKdGHs5n9Fgp8pIvXr0PwwsHRKoAT-JavzdxxnFqiJY8ILW_OfJfiqZQmieCLgLKwaSJ3LFFHBAFlYcdQ938GOaWtQOxWBdyACvtfmZ4Uiv-DZ6HswDQpGCRMBaG6Vi1QaNn2lMk9KoKVQ18ELOAyCCOm5HOJ2lqQ4qeQ8Ps4sxLN3sYxZZbyD8wOYPMzKfZZN5UypChGlRjYpulvMPF9vxEdq5y2cr1RqtwwT571WPjft0h9HQBC66NokULn_jR1aDlGpuY0QTEi9m8ZvuE4GI3Er2fVvpWdYSv9XuvgHge6XbG4UMJcSTndwCAI3cGszyqsAJ3t8wwD2EeQoyKRTh_1ohOIBIv2kZ0_bJad9Qnx40o6uXV7nA2lG4Cq8p3Lj9INK0_S0-DCgfvyaUgEobgUapR_QqHTnjty60LjcXj4M65M1YHQqdb15Mjh6qpWj9DikA7r-08tDkwqzChscd2h8slEpTByl0uIX8LqX0pOT1E8Tb4uvIXBWPo954wZw52guMnzA59jgwJToSFr-Vcrg8LEMtsJsnaiElXgav9BQsb3FpXw011cVecAeTWclO4c7UNf76Yts2u3eoj9ld.8X-FRDk05IWtjtXJikNdcg/__results___files/__results___15_0.png'></img>
 
-<h2><b><u>Analysis:</b></u></h2>
+## Analysis:
 <ol type="1">
   <li>Extraction data from dataset and converting into pandas dataframe.</li>
   <li>Print the shape and size of the converted dataframe.</li>
@@ -92,7 +90,7 @@ The question I would like to answer is "Did it rain tomorrow?" (1 = yes, 0 = no 
 
 
 
-<h2><b><u>References:</b></u></h2> 
+## References: 
 <ol type="1">
 <li>https://rdrr.io/cran/rattle.data/man/weather.html</li>
 <li>https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package</li>
