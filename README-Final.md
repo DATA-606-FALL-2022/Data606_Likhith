@@ -1,4 +1,3 @@
-
 # Predicting Rain in Australia
 
 ## Introduction
