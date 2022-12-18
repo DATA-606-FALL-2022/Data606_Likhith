@@ -119,3 +119,6 @@ The potential benefits of using machine learning techniques as tools to replace 
 * [2]. V. Kumar and S. Minz, "Poem classification using machine learning approach", Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), pp. 675-682, December 28–30, 2012.
 * [3]. B.Pang, L. Lee and S. Vaithyanathan, "Thumbs up? Sentiment classification using machine learning techniques" in Language Processing (EMNLP), Philadelphia, pp. 79-86, July 2002.
 * [4]. B. Stehman, "Selecting and interpreting measures of thematic classification accuracy", Remote Sensing of Environment, 1997.
+
+## YouTube Link
+https://www.youtube.com/watch?v=MhHDiZewots
